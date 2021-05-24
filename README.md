@@ -1,0 +1,3 @@
+# My very first html ands css project
+I had basic knowledge html and css. However i was stuck in tutorial hell. This project helped me to get out. It was very diffucult not to look other's code. It was really challanging but in the end i feel like i am not stuck in tutorials. 
+I learnt a lot about flexbox and grid system (altough not used). This project made me very confident about what could i achieve when i push my comfort zone. 
